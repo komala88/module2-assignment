@@ -1,4 +1,2 @@
 # htmlpractice
-This repository holds my html hands-on assignments.
-
-This is test git commit
+This repository holds my first assignment.
