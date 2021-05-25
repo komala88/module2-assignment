@@ -1,2 +1,4 @@
-# module2-assignment
-html, css module2-assignment
+# htmlpractice
+This repository holds my html hands-on assignments.
+
+This is test git commit
